@@ -16,5 +16,6 @@ On the terminal:
 
 pip install streamlit
 
-▶️ How to Run
+▶️ How to Run:
+
 streamlit run unit_converter.py
